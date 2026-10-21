@@ -7,7 +7,9 @@ Hello! My name is Gianna Carlson. I study at the University of Washington. This 
 I am majoring in Computer Science. I am currently enrolled in **ENGL396: Software Documentation**. When I graduate, 
 I plan to become a technical writer or a data scientist.
 
-Here is a list of my favorite classes at UW:
+![CSE2 Building](cse.jpg "A picture of the CSE2 Building")
+
+Here is a list of my *favorite classes* at UW:
 
 - [Data Visualization](https://courses.cs.washington.edu/courses/cse442/25au/)
 - [Introduction to HCI](https://courses.cs.washington.edu/courses/cse440/26wi/)
@@ -15,7 +17,7 @@ Here is a list of my favorite classes at UW:
 
 ## Programming Background
 
-I am relatively experience to programming. The following table summarizes my experience with different programming languages:
+I am relatively experienced to programming. The following table summarizes my experience with different programming languages:
 
 | Language | Experience |
 |---------:|------------|
